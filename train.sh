@@ -1,0 +1,1 @@
+python segment/train.py --batch 4 --epochs 500 --data data/disease_dataset.yaml --weights yolov7-seg.pt --device 0 --name disease
